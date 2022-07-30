@@ -81,7 +81,8 @@
 <!--    RadioButton은 항상 RadioGroup의 내부 구성으로 활용-->
     <RadioGroup
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content">
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
 
         <RadioButton
             android:layout_width="wrap_content"
