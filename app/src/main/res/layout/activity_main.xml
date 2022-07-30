@@ -78,6 +78,17 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="자동로그인"/>
+
+
+    <RadioButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="1번"/>
+    <RadioButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="2번"/>
+
 <!--    RadioButton은 항상 RadioGroup의 내부 구성으로 활용-->
     <RadioGroup
         android:layout_width="wrap_content"
