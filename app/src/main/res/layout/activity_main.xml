@@ -45,10 +45,6 @@
         android:textSize="30sp"
         android:textStyle="bold" />
 
-    <ImageView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:src="@drawable/cute" />
 
     <EditText
         android:layout_width="match_parent"
